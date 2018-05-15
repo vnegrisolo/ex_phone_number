@@ -1,4 +1,3 @@
 use Mix.Config
 
-config :ex_phone_number,
-  log_level: :warn
+config :ex_phone_number, log_level: :warn
